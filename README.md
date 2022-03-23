@@ -10,9 +10,10 @@
     - Web Crawling
     - Using Open API
 
-  #### 😘 Who am I?
+  #### 😘 Me.info()
     - Major : Statistics
     - Double major : Data engineering
+    - Excellence award🏆 at Seoul Big Data Campus Contest 
     - Now I'm istening SW education supported by the government.
 
 

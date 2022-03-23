@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img src=https://user-images.githubusercontent.com/55777595/159695744-a0afe736-67f9-40bd-b20c-fe27dd28a5ff.gif width="100" height="100"/>
   <br><br>
   Hi~ I'm just a talking potato🥔 <br>
   Really do hope ✨Data Scientist (someday) <br>

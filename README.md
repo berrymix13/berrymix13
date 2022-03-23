@@ -1,4 +1,22 @@
-### Hi there 👋
+<div align="center">
+  
+  <br><br>
+  Hi~ I'm just a talking potato🥔 <br>
+  Really do hope ✨Data Scientist (someday) <br>
+  After learning Deep Learning, I want to develop as well as analyze.
+</div>
+
+  #### 🌱 I’m currently learning ...
+    - Web Crawling
+    - Using Open API
+
+  #### 😘 Who am I?
+    - Major : Statistics
+    - Double major : Data engineering
+    - Now I'm istening SW education supported by the government.
+
+
+
 
 <!--
 **berrymix13/berrymix13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

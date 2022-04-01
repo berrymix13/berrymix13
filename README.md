@@ -7,6 +7,8 @@
 </div>
 
   #### 🌱 I’m currently learning ...
+    - NLP
+    - EDA
     - Web Crawling
     - Using Open API
 

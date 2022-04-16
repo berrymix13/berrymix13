@@ -8,7 +8,7 @@
 
   #### 🌱 I’m currently learning ...
     - NLP
-    - EDA
+    - Machine learning
     - Web Crawling
     - Using Open API
 

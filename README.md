@@ -22,7 +22,7 @@
     - Major : Statistics
     - Double major : Data engineering
     - Excellence award🏆 at Seoul Big Data Campus Contest 
-    - Now I'm istening SW education supported by the government.
+    - Now I'm listening SW education supported by the government.
 
 
 

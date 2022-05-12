@@ -6,9 +6,11 @@
   After learning Deep Learning, I want to develop as well as analyze.
 </div>
 
-### 🔭 I’m currently working on
-    - a Multi-Campus semi-Project. (링크추가하기)
-      : Machine Learning to Reduce Waiting Time for Taxi for the Transportation Vulnerable
+### 🔭 I’m currently working on [Multi SemiProject1](https://github.com/berrymix13/Multi_SemiProject1)
+    - a Multi-Campus semi-Project. 
+      : Machine Learning to Reduce Waiting Time for Taxi for the Transportation Vulnerabl
+    - Using ✨Multiple Regression Analysis
+    - Using ✨Flask 
 
   #### 🌱 I’m currently learning ...
     - NLP

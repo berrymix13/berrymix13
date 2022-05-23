@@ -1,12 +1,12 @@
 <div align="center">
   <img src=https://user-images.githubusercontent.com/55777595/159695744-a0afe736-67f9-40bd-b20c-fe27dd28a5ff.gif width="100" height="100"/>
   <br><br>
-  Hi~ I'm just a talking potato🥔 <br>
+  Hi~ I'm just a potato🥔 <br>
   Really do hope ✨Data Scientist✨ (someday) <br>
   After learning Deep Learning, I want to develop as well as analyze.
 </div>
 
-### 🔭 I’m currently working on [Multi SemiProject1](https://github.com/berrymix13/Multi_SemiProject1)
+### 🔭 My recent Project [Multi SemiProject1](https://github.com/berrymix13/Multi_SemiProject1)
     - a Multi-Campus semi-Project. 
       : Machine Learning to Reduce Waiting Time for Taxi for the Transportation Vulnerabl
     - Using ✨Multiple Regression Analysis
@@ -15,6 +15,7 @@
   #### 🌱 I’m currently learning ...
     - NLP
     - Machine learning
+    - Deep Learning
     - Web Crawling
     - Using Open API
 

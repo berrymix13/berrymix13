@@ -6,11 +6,10 @@
   After learning Deep Learning, I want to develop as well as analyze.
 </div>
 
-### 🔭 My recent Project [Multi SemiProject1](https://github.com/berrymix13/Multi_SemiProject1)
-    - a Multi-Campus semi-Project. 
-      : Machine Learning to Reduce Waiting Time for Taxi for the Transportation Vulnerabl
-    - Using ✨Multiple Regression Analysis
-    - Using ✨Flask 
+### 🔭 My recent Project [Multi SemiProject2](https://github.com/berrymix13/Multi_SemiProject2)
+    - a Multi-Campus semi-Project2. 
+      : Deep Learning(CNN) to Classificate Poketmon Image and Colorization hand drawing
+    - Using ✨ Python
 
   #### 🌱 I’m currently learning ...
     - NLP

@@ -6,10 +6,15 @@
   After learning Deep Learning, I want to develop as well as analyze.
 </div>
 
-### 🔭 My recent Project [Multi SemiProject2](https://github.com/berrymix13/Multi_SemiProject2)
-    - a Multi-Campus semi-Project2. 
-      : Deep Learning(CNN) to Classificate Poketmon Image and Colorization hand drawing
-    - Using ✨ Python
+### 🔭 My recent Project is [MultiCampus FinalProject](https://github.com/berrymix13/Multi_FinalProject)
+    - a Multi-Campus Final-Project
+      : Virtual nail art service - puts nail designs on my hands
+      : Recommendation system
+        💗 Recommend nail design according to the weather by season
+        💗 Recommend nail design similar to celebrity style
+        💗 Recommend a nail design that matches your sandal
+        💗 Recommend nail design according to user's choice
+    - Using ✨ Python -CNN, GAN, Opencv, MediaPipe
 
   #### 🌱 I’m currently learning ...
     - NLP

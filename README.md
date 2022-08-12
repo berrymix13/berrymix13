@@ -14,7 +14,7 @@
         💗 Recommend nail design similar to celebrity style
         💗 Recommend a nail design that matches your sandal
         💗 Recommend nail design according to user's choice
-    - Using ✨ Python -CNN, GAN, Opencv, MediaPipe
+    - Using ✨ Python -CNN,Segmentation Model, Opencv, MediaPipe, StyleGAN
 
   #### 🌱 I’m currently learning ...
     - NLP

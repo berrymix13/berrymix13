@@ -26,8 +26,8 @@
   #### 😘 Me.info()
     - Major : Statistics
     - Double major : Data engineering
-    - Excellence award🏆 at Seoul Big Data Campus Contest 
-    - Now I'm listening SW education supported by the government.
+    - Excellence award🏆 at Seoul Big Data Campus Contest three times
+    - Completed SW education supported by the government
 
 
 

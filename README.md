@@ -17,7 +17,7 @@
     - Using ✨ Python -CNN,Segmentation Model, Opencv, MediaPipe, StyleGAN
 
   #### 🌱 I’m currently learning ...
-    - NLP
+    - BAEKJOON : coding practice
     - Machine learning
     - Deep Learning
     - Web Crawling

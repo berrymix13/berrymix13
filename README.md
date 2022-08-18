@@ -16,7 +16,7 @@
         💗 Recommend nail design according to user's choice
     - Using ✨ Python -CNN,Segmentation Model, Opencv, MediaPipe, StyleGAN
 
-  #### 🌱 I’m currently learning ...
+  #### 🌱 I’m currently learning ... [TIL](https://github.com/berrymix13/TIL/tree/master/BAEKJOON)
     - BAEKJOON : coding practice
     - Machine learning
     - Deep Learning

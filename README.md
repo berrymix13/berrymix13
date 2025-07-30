@@ -1,48 +1,72 @@
 <div align="center">
-  <img src=https://user-images.githubusercontent.com/55777595/159695744-a0afe736-67f9-40bd-b20c-fe27dd28a5ff.gif width="100" height="100"/>
-  <br><br>
-  Hi~ I'm just a potato🥔 <br>
-  Really do hope ✨Data Scientist✨ (someday) <br>
-  After learning Deep Learning, I want to develop as well as analyze.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20berryJiny!&fontSize=40&fontColor=ffffff&gradient=7928CA,FF0080" />
+  <p align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRrbWwya3B5YmxtYWU3YnJpYnFpcWxoeTF0bzM5eHp4aDlmdTRmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RZY86mGjaASPAjVAcs/giphy.gif" width="200" height="200"/>
+  </p>
+  <br>
+
+  I'm currently working on **Vision-based Robot Automation System** 🤖  
+  Really do hope to be a ✨Data Scientist & Robotic Developer✨ someday!
+
 </div>
 
-### 🔭 My recent Project is [MultiCampus FinalProject](https://github.com/berrymix13/Multi_FinalProject)
-    - a Multi-Campus Final-Project
-      : Virtual nail art service - puts nail designs on my hands
-      : Recommendation system
-        💗 Recommend nail design according to the weather by season
-        💗 Recommend nail design similar to celebrity style
-        💗 Recommend a nail design that matches your sandal
-        💗 Recommend nail design according to user's choice
-    - Using ✨ Python -CNN,Segmentation Model, Opencv, MediaPipe, StyleGAN
+<br>
 
-  #### 🌱 I’m currently learning ... [TIL](https://github.com/berrymix13/TIL/tree/master/BAEKJOON)
-    - BAEKJOON : coding practice
-    - Machine learning
-    - Deep Learning
-    - Web Crawling
-    - Using Open API
+### 🔥 Main Project: Vision Manipulator
+ > A robot system that understands natural language  
+ > detects objects with YOLO, and executes Grasp & Place with a manipulator!
+  
+| Main Features                     | Technologies Used               |
+|----------------------------------|---------------------------------|
+| Natural Language Command Parsing | OpenAI GPT API                  |
+| Object & Keypoint Detection      | YOLOv11, HRNet                  |
+| 3D Transformation & Calibration  | Eye-in-Hand, OpenCV             |
+| Robot Control Pipeline           | ROS2, UR10, MoveIt2             |
 
-  #### 😘 Me.info()
-    - Major : Statistics
-    - Double major : Data engineering
-    - Excellence award🏆 at Seoul Big Data Campus Contest three times
-    - Completed SW education supported by the government
+  
+  👉 [View Project Repository](https://github.com/berrymix13/vision-manipulator)
 
+<br>
 
+### 🧠 Currently Interested In
 
+- **Robot Arm Control & Vision Fusion**
+- ROS2, MoveIt2, UR10, MyCobot280
+- GPT + YOLO + Grasp Detection 연동 시스템
+- Eye-in-Hand / Eye-to-Hand Calibration
+- Python / OpenCV / PyTorch / MoveIt2
+- 3D Data / Vision-Language-Model
 
-<!--
-**berrymix13/berrymix13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+#### 🌱 I’m currently learning
+- ROS2 node development & MoveIt2 motion planning
+- GPT integration with real-world robot systems
+- Real-time object detection with keypoint-to-grasp pipeline
+- AI-powered robot control with calibration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🎓 Education
+
+- **Kyonggi University**  
+  B.A. in Applied Statistics (Major)  
+  B.A. in Convergent Data Engineering (Double Major)  
+  🇰🇷 경기대학교 경제학부 응용통계학과 / 융합데이터공학 복수전공
+
+- **Konkuk University – Graduate School**  
+  M.S. in Big Data and Applied Statistics  
+  Research focus on computer vision, AI robotics, and real-world automation systems  
+  🇰🇷 건국대학교 대학원 응용통계학과 빅데이터 전공 재학 중
+  
+- 📧 sujini7773@gmail.com
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berrymix13&show_icons=true&theme=radical" />
+</p>
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
